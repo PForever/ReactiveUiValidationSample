@@ -13,6 +13,8 @@ using System.Windows.Media.Imaging;
 using System.Windows.Navigation;
 using System.Windows.Shapes;
 
+using static ReactiveUiValidationSample.MainWindowVm;
+
 namespace ReactiveUiValidationSample
 {
     /// <summary>
